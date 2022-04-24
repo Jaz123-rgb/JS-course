@@ -44,7 +44,7 @@ for (let div in divsRojos) {
       divsRojos[div].style.background = "red";
     }
 }
-
+  2
 ///Quiery selector
 
 

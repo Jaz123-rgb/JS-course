@@ -1,7 +1,13 @@
-  alert("hola mundo");
-  alert("Biendvendio al curso ");
-  document.write("hola munendoa este ficero externo");
-  console.log('muestra lesto en la comsola');
-  console.log(8 + 4);
+'use strict'
 
+var S1 = [7,14,21,28,35,42,49,56]; 
+   
+ 
+for(var i = 0; i <= S1; i++){
 
+       var  mul = i * c; 
+
+       console("la multipliaccion es: "+ mul);
+  
+        
+} 
